@@ -101,3 +101,9 @@ Future Work
 
 License
 This project is licensed under the MIT License.
+
+## Author
+- Sinchana B R
+- Contact: sinchanabr02@gmail.com 
+
+Feel free to reach out for questions or suggestions regarding this project!
