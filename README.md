@@ -98,13 +98,6 @@ Future Work
 - Try using word embeddings such as Word2Vec or GloVe for better text representation.
 - Implement a deep learning approach using neural networks for genre classification.
 
-Contributing
-Contributions are welcome! Please read the [CONTRIBUTING.md](https://github.com/your-username/movie-genre-classification/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-Roadmap
-- [ ] Add more classifiers and compare results.
-- [ ] Implement user interface for easier interaction.
-- [ ] Extend the dataset with more genres.
 
 License
 This project is licensed under the MIT License.
